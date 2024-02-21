@@ -3,6 +3,4 @@ function add(a: number, b:number): number {
 }
 
 
-console.log(add(1,2))
-
 console.log('button')
